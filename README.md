@@ -8,7 +8,6 @@ This system helps organizations move from manual or spreadsheet-based training m
 
 ## Demo Video
 - Demo video is included in this repository  
-- A cloud video link can be shared upon request if needed
 
 ---
 
@@ -90,9 +89,6 @@ Each role will have controlled access based on responsibilities.
 - Support for multiple departments or branches
 - Centralized management with controlled data access
 
-### System Integration
-- API support for integration with existing HR or ERP systems
-- Optional Single Sign-On (SSO)
 
 ---
 
@@ -123,6 +119,5 @@ The buyer will receive:
 
 ## Contact
 For pricing, customization, or full access:
-- Email: YOUR_EMAIL_HERE
-- LinkedIn: YOUR_LINK_HERE
-- Or contact via GitHub
+- Email: Nourhan.Adil@outlook.com
+
