@@ -7,10 +7,9 @@ This system helps organizations move from manual or spreadsheet-based training m
 ---
 
 ## Demo Video
-- Demo video is included in this repository
   <h2>🎥 Project Demo</h2>
 
-[![Watch the video](https://github.com/NourhanAdil/training-courses-management-system/blob/main/Video/demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/H-xoyGBCM0w/0.jpg)](https://www.youtube.com/watch?v=H-xoyGBCM0w)
 
 
 ---
